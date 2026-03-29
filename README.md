@@ -8,5 +8,5 @@ En este repositorio estaran almacenados mis codigos y proyectos creados en Assem
 
 ---
 
-[Ejercicios de Practica]
-Proyectos
+- [Ejercicios de Practica]
+- Proyectos
